@@ -1,4 +1,5 @@
 #PHP course
+TEST
 
 ## Introduction
 Simple course, that I took to learn Git.
