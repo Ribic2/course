@@ -8,9 +8,6 @@ test
 Test text idk.
 
 ## How To Contribute
-<<<<<<< HEAD
 
 ##Copyright file
 Idk looks fun
-=======
->>>>>>> origin/master
