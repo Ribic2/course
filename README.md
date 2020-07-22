@@ -4,6 +4,7 @@
 Simple course, that I took to learn Git.
 
 ## Purpose
+I need to add a simple text 
 
 ## How To Contribute
 
